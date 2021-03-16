@@ -7,7 +7,7 @@ Focada no desenvolvimento web e atualmente me aprofundando em JS e Git. <br>
 Entusiasta nas tecnologias e quero usar a programação como um estilo de vida. <br>
 
 ```bash
-  > A tecnologia pra mim, é todo dia ter um desafio diferente e é isso que me motiva a continuar nessa área! <
+> A tecnologia pra mim, é todo dia ter um desafio diferente e é isso que me motiva a continuar nessa área! <
 ```
 
 ## 🚀 Technologies
