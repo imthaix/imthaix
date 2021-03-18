@@ -3,7 +3,7 @@
 ## 🗨 About me
 
 Tenho 20 anos e sou formada em técnica em informática desde dezembro de 2020. <br>
-Focada no desenvolvimento web e atualmente me aprofundando em JS e Git. <br>
+Focada no desenvolvimento web e atualmente me aprofundando em JS e Git. Pretendo futuramente me tornar uma Full Stack <br>
 Entusiasta nas tecnologias e quero usar a programação como um estilo de vida. <br>
 
 ```bash
