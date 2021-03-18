@@ -22,7 +22,6 @@ Entusiasta nas tecnologias e quero usar a programação como um estilo de vida. 
 
 ## 📞 Contact
 
-✉ [E-mail](imthaisantos@gmail.com) <br>
 ℹ [Linkedin](https://www.linkedin.com/in/thaysfsantos/) <br>
 📸 [Instagram](https://www.instagram.com/itsmethaix_/) <br>
-🚀 [Rocketseat](https://app.rocketseat.com.br/me/thaysfsantos) <br>
+🚀 [Rocketseat](https://app.rocketseat.com.br/me/thaisfsantos7) <br>
