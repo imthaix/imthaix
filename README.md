@@ -1,4 +1,4 @@
-![image](https://im2.ezgif.com/tmp/ezgif-2-8f048d3e01db.gif)
+
 
 ## 🗨 About me
 
