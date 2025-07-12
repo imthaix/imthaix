@@ -1,6 +1,8 @@
 
 ## 🗨 About me
 
+![Image](https://github.com/user-attachments/assets/036a8362-38ac-4c0e-ab21-ca36ae8413ba)
+
 I am 25 years old, I graduated as a computer technician and I am currently studying Information Systems. <br>
 My focus is on web and mobile development, but I intend to expand my backend and database knowledge. <br>
 
