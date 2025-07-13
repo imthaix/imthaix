@@ -1,5 +1,5 @@
 
-## 🗨 About me
+## 🗨 Hello, my name is Thaís!
 
 ![Image](https://github.com/user-attachments/assets/036a8362-38ac-4c0e-ab21-ca36ae8413ba)
 
